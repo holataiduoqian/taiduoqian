@@ -1,3 +1,18 @@
 a:hover{
 color:green
 }
+body,mian {
+  display: flex;
+}
+body{
+  flex-direction: column
+}
+mian{
+flex: auto
+}
+aside{
+flex: 1
+}
+article{
+flex: 3
+}
