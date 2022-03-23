@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <title>我的个人网站</title>
+<link href="https://www.adalab.cn/admission.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+<header><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0154425836975aa8012060c8f1d67b.jpg%401280w_1l_2o_100sh.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650559294&t=1bce7df0b7656ac8253478364b48f48d">
+</header>
+<footer>by <a href="https://zhuanlan.zhihu.com/p/460182996“ target="_blank">CGTN</a> for <a href="https://www.adalab.cn" target="_blank">Adalab</a>
+</footer>
+<main>
+<aside>
+<ul>
+<li><a href="https://ssssjdhdhdhdhdbdbrb.github.io/taiduoqian/bilibili.html">mac</a></li>
+<li><a href="https://ssssjdhdhdhdhdbdbrb.github.io/taiduoqian/">win</a></li>
+</ul>
+</aside>
+<article>
+<h1>Hello Adalab</h1>
+<p>This is the first page I made at Adalab.</p>
+<p>邮局电脑</p>
+<p>这是为<a href="https://www.adalab.cn"><img src="https://www.adalab.cn/images/adalab.png"></a>挑战赛制作的网站。</p>
+<h1>计算机</h1>
+<h2>计算机</h2>
+<h3>计算机</h3>
+<p>点击图片跳转百度<a href="https://www.baidu.com/"><img src="https://img2.baidu.com/it/u=1814268193,3619863984&fm=253&fmt=auto&app=138&f=JPEG?w=632&h=500"></a></p>
+<iframe src="//player.bilibili.com/player.html?aid=509972138&bvid=BV1tu411q7LL&cid=553166725&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</article>
+</main>
+</body>
+</html>
